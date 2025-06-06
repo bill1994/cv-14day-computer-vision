@@ -3,7 +3,7 @@ mediapipe
 torch
 torchvision
 torchaudio
-ultralytics==8.0.20
+ultralytics==8.3.151
 segment-anything
 matplotlib
 numpy
