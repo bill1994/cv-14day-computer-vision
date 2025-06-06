@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+torch
+torchvision
+torchaudio
+ultralytics==8.0.20
+segment-anything
+matplotlib
+numpy
+pillow
